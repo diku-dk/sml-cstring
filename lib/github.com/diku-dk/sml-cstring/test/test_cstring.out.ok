@@ -1,0 +1,7 @@
+Testing CString
+CString.concat: OK
+CString.empty: OK
+CString.foldr: OK
+CString.foldl: OK
+CString.map: OK
+End Testing CString
